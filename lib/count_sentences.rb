@@ -31,5 +31,5 @@ class String
    self.split(/\.|\?|\!|\!!|\.../).size
    end
  
- end
+ 
 end
